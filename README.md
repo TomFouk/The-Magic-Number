@@ -1,4 +1,4 @@
-# The-Magic-Number
+# The Magic Number
 A cool game by TomFouk
 
 The Magic Number is a game where you need to find a random number between zero and a chosen number.
