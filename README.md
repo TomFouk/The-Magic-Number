@@ -9,11 +9,10 @@ Ask me if you want the original files.
 
 You can download here the Windows and MacOS version : 
 
-Windows 64x : 
+Windows 64x : Coming soon
 
-MacOS : Coming soon
+MacOS : https://www.mediafire.com/file/lclvt7mqrzdasak/The_Magic_Number.app.zip/file
 
-If you don't see the icon of the .exe on the Windows version, try to type this : _ie4uinit -show_ on the cmd 
 
 Upcoming update : 
 
