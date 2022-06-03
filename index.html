@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>The Magic Number</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="dist/setting.js"></script>
+  </head>
+  <body>
+    <div id="play">
+      <h1>The Magic Number</h1>
+      <form action="play.html">
+        <button type="submit">Play</button>
+      </form>
+      <button id="bouton">Settings</button><br/>
+      <span id="valid"></span>
+    </div>
+    <div id="settings">
+      <h1>Settings</h1>
+      <form name="setting" class="form-center">
+        <a>Max value of the Magic Number</a>
+        <input type="number" id="input" name="input" value="10"><br/>
+        <a>Number of try</a>
+        <input type="number" id="nbtry" name="nbtry" value="3"><br/>
+        <input type="button" id="send" value="Envoyer" onclick="controle(setting)"><br/>              
+      </form>
+      <input type="button" id="home" value="Menu"><br/>
+      <input type="button" id="reset" value="Reset"><br/>
+    </div>
+    <script src="dist/setting.js"></script>
+  </body>
+</html>
