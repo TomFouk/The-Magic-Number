@@ -7,6 +7,12 @@ Here you can find the source code. The game is share in an ElectronJS app (https
 
 Ask me if you want the original files.
 
+# Important
+
+If you want to use the source files, you need to install ElectronJS with npm for example
+
+# Download
+
 You can download here the Windows and MacOS version : 
 
 Windows 64x : Coming soon
@@ -14,7 +20,7 @@ Windows 64x : Coming soon
 MacOS : https://www.mediafire.com/file/lclvt7mqrzdasak/The_Magic_Number.app.zip/file
 
 
-Upcoming update : 
+# Upcoming update : 
 
 - More language support
 - Graphic improvment
