@@ -1,0 +1,23 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    background: rgb(0, 89, 255);
+    background: linear-gradient(90deg, rgb(0, 89, 255) 0%, rgb(12, 200, 233) 100%);
+}
+a{
+    font-size: 30px;
+}
+b{
+    font-size: 15px;
+}
+#valid{
+    color: red;
+}
+#result{
+    color: red;
+}
+
+
+
+
